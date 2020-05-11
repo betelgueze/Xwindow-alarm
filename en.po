@@ -1,0 +1,99 @@
+# English translations for gux_proj package.
+# Copyright (C) 2017 THE gux_proj'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the gux_proj package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gux_proj 2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-15 20:03+0100\n"
+"PO-Revision-Date: 2017-12-15 20:03+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: alarm.c:245
+msgid "Error!"
+msgstr "Error!"
+
+#: alarm.c:259
+msgid "Gtk+ Alarm Clock"
+msgstr "Gtk+ Alarm Clock"
+
+#. File pulldown menu
+#: alarm.c:323
+msgid "_File"
+msgstr "_File"
+
+#. New button in File menu
+#: alarm.c:329 alarm.c:420
+msgid "New"
+msgstr "New"
+
+#. Delete button in File menu
+#: alarm.c:336 alarm.c:425
+msgid "Delete"
+msgstr "Delete"
+
+#. Delete all button in File menu
+#: alarm.c:343
+msgid "_Delete All"
+msgstr "_Delete All"
+
+#. Disable all button in File menu
+#: alarm.c:350
+msgid "_Disable"
+msgstr "_Disable"
+
+#. Disable all button in File menu
+#: alarm.c:357 alarm.c:435
+msgid "Disable All"
+msgstr "Disable All"
+
+#. Enable button in File menu
+#: alarm.c:364
+msgid "_Enable"
+msgstr "_Enable"
+
+#. Enable all button in File menu
+#: alarm.c:371 alarm.c:430
+msgid "Enable All"
+msgstr "Enable All"
+
+#. Quit button in File menu
+#: alarm.c:378
+msgid "_Quit"
+msgstr "_Quit"
+
+#. View pulldown menu
+#: alarm.c:385
+msgid "_View"
+msgstr "_View"
+
+#. Enable Resize button in View menu
+#: alarm.c:391
+msgid "Enable/Disable Resize"
+msgstr "Enable/Disable Resize"
+
+#. Reset Minimum Size button in View menu
+#: alarm.c:398
+msgid "_Reset Size to default"
+msgstr "_Reset Size to default"
+
+#. Help pulldown menu
+#: alarm.c:405
+msgid "_Help"
+msgstr "_Help"
+
+#: alarm.c:410
+msgid "_About"
+msgstr "_About"
+
+#: alarm.c:440
+msgid "Switch"
+msgstr "Switch"

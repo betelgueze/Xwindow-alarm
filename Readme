@@ -1,0 +1,36 @@
+Readme for Gtk+ Alram Clocks 
+----------------------------------
+Author: Martin Risa
+Date:   6.12.2012
+Version:0.99
+
+compatibility:
+-GTK+ 2.x, 3.x
+
+dependencies:
+-NONE
+
+features:
+-dynamic sized labels that will allways be displayed whole
+-realtime clocks
+-tooltips
+-list of alarms(max 4 alarms supported)
+-alarm controls
+-localization
+-resize of a window can be disabled and enabled afterwards.
+
+INTERRESTING NOTE: label's font height is half of height of the box it is in minus some BULGARIAN_CONSTANT(works at least for Noto Sans on every tested font_size), label's width is not taken into acount at all.
+
+Last feature is achieved by setting minimal size of GtkWidgets(that is assured by GTK), another approach is possible by getting actuall allocation of GtkWidgets but this is too complicated for such small school project. That's why application can only be made larger and there is a button to reset size of a window to defaults.
+
+TODO:
+-gl_area that displays this readme in "Star Wars intro" style (SOME GL dependency)
+-embed another embeddable app into this one(GTK 3.16+ ONLY).
+
+
+IMPORTANT FINDINGS(related to homo sappiens):
+-oxygen is related to dopamine and probably decreases it.
+-low frequency vibrations(e.g. bass sound) in ear cause yawning.
+-yawning increases pressure in head(delivery of oxygen), concentration etc.
+-in cold we yawn fewer than in warm enviroments.
+
